@@ -1,7 +1,3 @@
-# TODO: require relevant files to bootstrap the app.
-# Then you can test your program with:
-#   ruby app.rb
-
 # CONTROLLER paths:
 ######################################
 require_relative './controllers/customers_controller'
